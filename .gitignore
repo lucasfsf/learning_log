@@ -1,2 +1,2 @@
-*sqlite3
-ll_env/
+*.sqlite3
+ll_env
